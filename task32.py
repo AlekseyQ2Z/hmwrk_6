@@ -22,7 +22,7 @@ def is_in_mass(num_lst: list[int],
     return list_2
 
 
-list_1 = list(map(int, input("Введите список чисел через пробел: ").split()))
-min_num_1 = int(input("Введите минимальное число: "))
-max_num_1 = int(input("Введите максимальное число: "))
-print(is_in_mass(list_1, min_num_1, max_num_1))
+# list_1 = list(map(int, input("Введите список чисел через пробел: ").split()))
+# min_num_1 = int(input("Введите минимальное число: "))
+# max_num_1 = int(input("Введите максимальное число: "))
+# print(is_in_mass(list_1, min_num_1, max_num_1))
